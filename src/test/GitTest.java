@@ -1,6 +1,8 @@
 package test;
 
 public class GitTest {
-	//±êÅ×½ºÆ®ÁøÇà
+	//ê¹ƒí…ŒìŠ¤íŠ¸ì§„í–‰
 	int x = 0;
+	//ìˆ˜ì •
+	//ìˆ˜ì •
 }
